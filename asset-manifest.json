@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/readme-generator/static/css/main.4f3a7021.css",
+    "main.js": "/readme-generator/static/js/main.3d4b5169.js",
+    "index.html": "/readme-generator/index.html",
+    "main.4f3a7021.css.map": "/readme-generator/static/css/main.4f3a7021.css.map",
+    "main.3d4b5169.js.map": "/readme-generator/static/js/main.3d4b5169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3a7021.css",
+    "static/js/main.3d4b5169.js"
+  ]
+}
