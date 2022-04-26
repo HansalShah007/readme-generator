@@ -1,0 +1,19 @@
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.con-icon {
+    display: flex;
+}
+
+.con-icon img {
+    margin-right: 10px;
+}
+
+.con-icon svg {
+    margin-right: 10px;
+}

@@ -1,0 +1,9 @@
+.rfi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sub-heading {
+    margin-top: 20px;
+}

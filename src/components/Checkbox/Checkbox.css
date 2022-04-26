@@ -1,0 +1,24 @@
+.checkbox {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    width: 40%;
+    margin: 20px;
+}
+
+.tech {
+    display: none;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.logo {
+    margin-left: 15px;
+}
+
+.logo:hover + .tech{
+    display: inline-flex;
+}

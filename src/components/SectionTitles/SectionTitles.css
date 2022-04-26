@@ -1,0 +1,16 @@
+#titleRender {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.section-title{
+    background-color: #eee;
+    font-weight: 700;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
