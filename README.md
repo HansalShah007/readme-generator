@@ -29,7 +29,7 @@
 </ul><h2>Screenshots</h2>
 <hr>
 <h4>Some Examples Of different types of inputs</h4>
-<p><img src="https://iili.io/ViGtuR.png" alt=""></p><p><img src="https://iili.io/ViGyGt.png" alt=""></p><p><img src="https://iili.io/ViM28G.png" alt=""></p><p><img src="https://iili.io/ViMfwl.png" alt=""></p><h2>Setup</h2>
+<p><img style="width:50%" src="https://iili.io/ViGtuR.png" alt=""></p><p><img style="width:50%" src="https://iili.io/ViGyGt.png" alt=""></p><p><img style="width:50%" src="https://iili.io/ViM28G.png" alt=""></p><p><img style="width:50%" src="https://iili.io/ViMfwl.png" alt=""></p><h2>Setup</h2>
 <hr><p>Followig are the requirements to run this project:</p><ul>
 <li>Node Package Manager (NPM)</li>
 </ul><ul>
