@@ -19,7 +19,7 @@
 <ul>
 <li>Contains 12 unique fields to display project details.</li>
 </ul><ul>
-<li>No need to write Markdown or to have any knowledge related to it.</li>
+<li>No knowledge about markdown syntax is required.</li>
 </ul><ul>
 <li>Simple UI</li>
 </ul><ul>
