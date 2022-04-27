@@ -14,7 +14,7 @@
 </ul><ul>
 <li>JavaScript</li>
 </ul><ul>
-<li>React</li>
+<li>ReactJS</li>
 </ul><h2>Features</h2>
 <ul>
 <li>Contains 12 unique fields to display project details.</li>
