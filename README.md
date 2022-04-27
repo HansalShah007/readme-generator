@@ -1,5 +1,5 @@
 <h1>README.md Generator</h1>
-<p>Readme.md generator is a React application that takes basic information about the user's project as an input and generates a README file which user can upload directly in their project's repository</p><h2>General Information</h2>
+<p>Readme.md generator is a React application that takes basic information about the user's project as an input and generates a README file which the user can upload directly in their project's repository.</p><h2>General Information</h2>
 <ul>
 <li>For people who are starting and uploading their very first project on a GitHub repository, are often unaware about the importance of a README file. A README file is very important for a user to justify their work and also for other people who are trying to understand their project.</li>
 </ul><ul>
