@@ -30,7 +30,7 @@
 
 <h4>Some Examples Of different types of inputs</h4>
 <p><img style="width:50%; border:5px solid black" src="https://iili.io/ViGtuR.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViGyGt.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViM28G.png" alt=""></p><p><img style="width:50%; border:5px solid black" src="https://iili.io/ViMfwl.png" alt=""></p><h2>Setup</h2>
-<p>Followig are the requirements to run this project:</p><ul>
+<p>Following are the requirements to run this project:</p><ul>
 <li>Node Package Manager (NPM)</li>
 </ul><ul>
 <li>React</li>
